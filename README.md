@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=".github/Bierpong-Image.jpeg" width="300">
+    <img src="Bierpong-Image.jpeg" width="300">
 </div>
 
 
